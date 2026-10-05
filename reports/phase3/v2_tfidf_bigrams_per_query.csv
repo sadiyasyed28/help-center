@@ -1,0 +1,217 @@
+query_id,query,true_article_id,rank_1,rank_2,rank_3,true_rank,reciprocal_rank
+,why set trial lentgh to 14 days asap,A121,A121,A101,A112,1,1.0
+,how do i fight a chargeback?,A105,A101,A102,A103,5,0.2
+,how do i upload id to keep my account active?,A116,A119,A103,A116,3,0.3333333333333333
+,"hi, dunning settings for subscriptions",A122,A121,A110,A103,22,0.045454545454545456
+,need help: upgrade a subscriber mid month on my account,A120,A119,A103,A110,20,0.05
+,need help: how do i fight a chargeback please,A105,A110,A116,A101,7,0.14285714285714285
+,"hi, cost of loisng a dispute asap",A106,A106,A105,A124,1,1.0
+,help verify event signature,A124,A124,A101,A102,1,1.0
+,question: switch from test to live,A123,A123,A101,A102,1,1.0
+,help block suspicious payments on my account,A107,A107,A119,A103,1,1.0
+,how do i deadline to respond to dispute on my account,A105,A106,A105,A119,2,0.5
+,close business account,A119,A119,A101,A116,1,1.0
+,can you tell me charge customers in eruos please,A109,A110,A105,A101,10,0.1
+,return a charge to the customer for my shop,A112,A105,A110,A112,3,0.3333333333333333
+,can you tell me how much do you take per transaction,A114,A114,A101,A102,1,1.0
+,bank refused the charge for my shop,A108,A103,A105,A101,7,0.14285714285714285
+,question: how much do you take per transaction?,A114,A114,A101,A102,1,1.0
+,inivte a coworker to the dashboard,A117,A116,A107,A102,17,0.058823529411764705
+,how do i store customer card on file,A110,A111,A113,A110,3,0.3333333333333333
+,"hi, payout schedule timing please",A101,A101,A102,A103,1,1.0
+,can you tell me invite a coworker to the dashboard asap,A117,A117,A116,A107,1,1.0
+,help partial refund for one item asap,A112,A113,A112,A101,2,0.5
+,how do i send funds to my debit card asap,A104,A104,A113,A108,1,1.0
+,need help: put a hold on a card,A111,A111,A110,A104,1,1.0
+,can you tell me payout stuck in pending asap,A102,A102,A101,A103,1,1.0
+,help deadline to repsond to dispute asap,A105,A106,A105,A124,2,0.5
+,how do i authorization expired before i charged please,A111,A111,A106,A121,1,1.0
+,need help: deadline to respond to dispute,A105,A106,A105,A110,2,0.5
+,dunning settings for subscriptions,A122,A121,A110,A103,22,0.045454545454545456
+,need help: set up two factor login please,A118,A110,A116,A101,18,0.05555555555555555
+,renewal charge failed for a susbcriber?,A122,A122,A113,A110,1,1.0
+,why return a charge to the customer,A112,A105,A110,A112,3,0.3333333333333333
+,how do i sell to buyers abroad in their money please,A109,A111,A113,A123,12,0.08333333333333333
+,need help: require 2fa for my team please,A118,A118,A117,A110,1,1.0
+,why annual statement for accountant?,A115,A115,A101,A102,1,1.0
+,how do i set up two factor loign please,A118,A101,A102,A103,18,0.05555555555555555
+,question: charged a fee for a chargeback,A106,A106,A114,A121,1,1.0
+,can you tell me when does my money arrvie on my account,A101,A119,A103,A111,5,0.2
+,can you tell me payment failed at checkout please,A108,A122,A112,A108,3,0.3333333333333333
+,question: set trial length to 14 days please,A121,A121,A101,A112,1,1.0
+,question: what does decline code mean,A108,A108,A118,A101,1,1.0
+,too many card testing attempts on my account,A107,A119,A107,A103,2,0.5
+,need help: account needs more information for my shop,A116,A116,A119,A103,1,1.0
+,why clsoe business acocunt,A119,A116,A101,A112,19,0.05263157894736842
+,question: breakdown of charges on a sale for my shop,A114,A114,A109,A107,1,1.0
+,question: try payments without real money,A123,A123,A107,A111,1,1.0
+,how do i switch where deposits go,A103,A123,A101,A102,4,0.25
+,charge csutomers in euros,A109,A110,A105,A101,10,0.1
+,why get my 1099 form?,A115,A101,A102,A103,15,0.06666666666666667
+,can you tell me upgrade a subscriber mid month asap,A120,A101,A102,A103,20,0.05
+,how do i where are my tax documents?,A115,A115,A116,A101,1,1.0
+,stop fake orders with stolen cards,A107,A110,A114,A101,9,0.1111111111111111
+,question: store csutomer card on file asap,A110,A104,A110,A111,2,0.5
+,how do i try payments without real money?,A123,A123,A107,A111,1,1.0
+,how do i updtae my bank details?,A103,A103,A102,A112,1,1.0
+,can you tell me cancel everything and leave,A119,A121,A101,A102,20,0.05
+,too many card testing attempts?,A107,A107,A104,A110,1,1.0
+,can you tell me lost my authenticator phone,A118,A118,A101,A102,1,1.0
+,not enough balance to refund please,A113,A113,A112,A119,1,1.0
+,how do i give my employee access asap,A117,A101,A102,A103,17,0.058823529411764705
+,not enough balance to refund for my shop,A113,A113,A112,A119,1,1.0
+,how do i annual statement for accountant on my account,A115,A119,A103,A115,3,0.3333333333333333
+,why account needs more information?,A116,A119,A103,A116,3,0.3333333333333333
+,need help: get my 1099 form,A115,A110,A116,A101,16,0.0625
+,can you tell me turn off prorated charges on my account,A120,A120,A119,A103,1,1.0
+,help where are my tax documents please,A115,A115,A116,A101,1,1.0
+,question: set up two factor login please,A118,A101,A102,A103,18,0.05555555555555555
+,can you tell me pricing for card processing?,A114,A114,A104,A110,1,1.0
+,help customer never got tehir money back,A113,A111,A113,A112,2,0.5
+,daily limit on fast payouts asap,A104,A104,A103,A116,1,1.0
+,customer filed a chargeback,A105,A112,A120,A105,3,0.3333333333333333
+,how do i switch where deposits go?,A103,A123,A101,A102,4,0.25
+,why payout stuck in pending for my shop,A102,A102,A101,A103,1,1.0
+,help pricing for card processing pelase,A114,A114,A104,A110,1,1.0
+,how do i keep payment details for next time please,A110,A112,A108,A120,16,0.0625
+,question: how much do you take per transaction,A114,A114,A101,A102,1,1.0
+,"hi, cost of losing a dispute for my shop",A106,A106,A105,A124,1,1.0
+,customer charged when trial ended please,A121,A121,A112,A106,1,1.0
+,"hi, get my 1099 form",A115,A101,A102,A103,15,0.06666666666666667
+,need help: do i get the dispute fee back,A106,A106,A105,A110,1,1.0
+,breakdown of charges on a sale?,A114,A114,A109,A107,1,1.0
+,"hi, charged a fee for a chargeback asap",A106,A106,A114,A121,1,1.0
+,how do i try payments without real money,A123,A123,A107,A111,1,1.0
+,why why is my deposit held up,A102,A101,A102,A103,2,0.5
+,pamyent failed at checkout for my shop,A108,A122,A113,A101,10,0.1
+,can you tell me stop fake orders with stolen cards asap,A107,A110,A114,A101,9,0.1111111111111111
+,how do i limit what staff can see,A117,A101,A102,A103,17,0.058823529411764705
+,help fake card numbers for testing please,A123,A123,A104,A110,1,1.0
+,need help: authorization expired before i charged please,A111,A111,A110,A116,1,1.0
+,do i get the dispute fee back on my account,A106,A106,A119,A105,1,1.0
+,delete my account permanently please,A119,A119,A103,A101,1,1.0
+,help account needs more information,A116,A119,A103,A116,3,0.3333333333333333
+,can you tell me cost of losing a dispute,A106,A106,A105,A124,1,1.0
+,capture part of the amount,A111,A111,A101,A102,1,1.0
+,help turn off prorated charges,A120,A120,A109,A107,1,1.0
+,question: customer filed a chargeback for my shop,A105,A112,A120,A105,3,0.3333333333333333
+,"hi, capture part of the amount for my shop",A111,A111,A101,A102,1,1.0
+,help update my bank details,A103,A103,A102,A112,1,1.0
+,how do i move customer to a cheaper plan asap,A120,A120,A112,A105,1,1.0
+,move customer to a cheaper plan asap,A120,A120,A112,A105,1,1.0
+,"hi, give my employee access asap",A117,A101,A102,A103,17,0.058823529411764705
+,why verify who owns the business,A116,A101,A116,A112,2,0.5
+,need help: charge the same card again laetr,A110,A110,A104,A116,1,1.0
+,"hi, lost my authenticator phone on my account",A118,A119,A103,A118,3,0.3333333333333333
+,question: upload id to keep my account active?,A116,A119,A103,A116,3,0.3333333333333333
+,why daily limit on fast payouts for my shop,A104,A104,A103,A116,1,1.0
+,need help: use a different checking account,A103,A110,A119,A103,3,0.3333333333333333
+,partial refund for one item for my shop,A112,A113,A112,A101,2,0.5
+,need help: charge the same card again later please,A110,A110,A111,A104,1,1.0
+,"hi, capture part of the amount",A111,A111,A101,A102,1,1.0
+,need help: transfer to my bank is late,A102,A103,A110,A116,4,0.25
+,get money faster same day on my account,A104,A119,A103,A111,8,0.125
+,help fake card numbers for testing?,A123,A123,A104,A110,1,1.0
+,how do i invite a coworker to the dashboard for my shop,A117,A117,A116,A107,1,1.0
+,why what happens when recurring payment fails,A122,A122,A124,A112,1,1.0
+,help delete my account permanently on my account,A119,A119,A103,A101,1,1.0
+,question: webhook endpoint not receiving events,A124,A101,A102,A103,24,0.041666666666666664
+,fake card numbers for testing?,A123,A123,A104,A110,1,1.0
+,"hi, refund did not go through on my account",A113,A113,A119,A103,1,1.0
+,bank refused the charge asap,A108,A103,A105,A101,7,0.14285714285714285
+,can you tell me transfer to my bank is late for my shop,A102,A103,A102,A112,2,0.5
+,"hi, switch from test to live asap",A123,A123,A101,A102,1,1.0
+,bank refused the charge on my account,A108,A103,A101,A119,8,0.125
+,"hi, annual statement for accountant please",A115,A115,A101,A102,1,1.0
+,need help: put a hold on a card asap,A111,A111,A110,A104,1,1.0
+,how do i cancel everything and laeve for my shop,A119,A121,A101,A102,20,0.05
+,why require 2fa for my team asap,A118,A118,A117,A101,1,1.0
+,question: where are my tax documents please,A115,A115,A116,A101,1,1.0
+,remind users before trial expires for my shop,A121,A121,A111,A101,1,1.0
+,need help: limit what staff can see for my shop,A117,A110,A116,A101,17,0.058823529411764705
+,send funds to my debit card for my shop,A104,A104,A113,A108,1,1.0
+,customer filed a chargeback,A105,A112,A120,A105,3,0.3333333333333333
+,can you tell me charge the same card again later,A110,A110,A111,A104,1,1.0
+,why verify event signature,A124,A124,A101,A102,1,1.0
+,refund did not go through,A113,A113,A112,A101,1,1.0
+,question: block suspicious payments on my account,A107,A107,A119,A103,1,1.0
+,help stop fake orders with stolen cards?,A107,A110,A114,A101,9,0.1111111111111111
+,"hi, give my employee access for my shop",A117,A101,A102,A103,17,0.058823529411764705
+,how do i sell to buyers abroad in their money asap,A109,A111,A113,A123,12,0.08333333333333333
+,need help: lost my authenticator phone,A118,A118,A110,A116,1,1.0
+,question: verify event signature on my account,A124,A124,A101,A119,1,1.0
+,use a different checking account asap,A103,A119,A103,A110,2,0.5
+,need help: too many card testing attemtps please,A107,A110,A104,A116,9,0.1111111111111111
+,"hi, breakdown of charges on a sale",A114,A114,A109,A107,1,1.0
+,need help: verify who owns the business,A116,A101,A116,A110,2,0.5
+,question: switch where deposits go?,A103,A123,A101,A102,4,0.25
+,get money faster same day asap,A104,A111,A113,A123,7,0.14285714285714285
+,question: lmiit what staff can see,A117,A101,A102,A103,17,0.058823529411764705
+,charge customers in euros?,A109,A110,A105,A101,10,0.1
+,"hi, refund did not go through",A113,A113,A112,A101,1,1.0
+,authorization expired before i charged on my account,A111,A119,A103,A111,3,0.3333333333333333
+,help customer charegd when trial ended,A121,A121,A112,A120,1,1.0
+,"hi, get notified when payment succeeds for my shop",A124,A112,A108,A124,3,0.3333333333333333
+,how do i what does decline code mean,A108,A108,A118,A101,1,1.0
+,help why is my deopsit held up,A102,A101,A102,A103,2,0.5
+,payment failed at checkout asap,A108,A122,A112,A108,3,0.3333333333333333
+,"hi, require 2fa for my team",A118,A118,A117,A101,1,1.0
+,can you tell me why is my deposit held up for my shop,A102,A101,A102,A103,2,0.5
+,need help: dunning settigns for subscriptions for my shop,A122,A110,A121,A116,22,0.045454545454545456
+,question: remind users before trial expires,A121,A121,A111,A101,1,1.0
+,why customer never got their money back on my account,A113,A119,A103,A111,4,0.25
+,need help: do i get the dispute fee back please,A106,A106,A105,A110,1,1.0
+,get money faster same day,A104,A111,A113,A123,7,0.14285714285714285
+,need help: webhook endpoint not receiving events,A124,A110,A116,A101,24,0.041666666666666664
+,"hi, give money back to a buyer",A112,A111,A113,A123,14,0.07142857142857142
+,need help: what does decline code mean?,A108,A108,A118,A110,1,1.0
+,why upgrade a subscriber mid mnoth,A120,A101,A102,A103,20,0.05
+,"hi, customer never got their money back?",A113,A111,A113,A112,2,0.5
+,need help: move customer to a cheaper plan for my shop,A120,A120,A110,A116,1,1.0
+,how do i when does my money arrive,A101,A111,A113,A123,4,0.25
+,help keep payment details for next time,A110,A112,A108,A120,16,0.0625
+,question: use a different checking account,A103,A119,A103,A110,2,0.5
+,why customer charged when trial ended?,A121,A121,A112,A106,1,1.0
+,can you tell me delete my account permanently,A119,A119,A103,A101,1,1.0
+,can you tell me remind users before trial expires on my account,A121,A121,A119,A103,1,1.0
+,get notified when payment succeeds asap,A124,A112,A108,A124,3,0.3333333333333333
+,when does my money arrvie please,A101,A111,A113,A123,4,0.25
+,help what happens when recurring payment fails on my account,A122,A122,A124,A119,1,1.0
+,help upload id to keep my account active for my shop,A116,A119,A103,A116,3,0.3333333333333333
+,help payout schedule timing,A101,A101,A102,A103,1,1.0
+,help renweal charge failed for a subscriber for my shop,A122,A122,A113,A110,1,1.0
+,why webhook endpoint not receiving events on my accuont,A124,A101,A102,A103,24,0.041666666666666664
+,first payout is taking too long for my shop,A101,A101,A102,A103,1,1.0
+,can you tell me cancel everything and leave,A119,A121,A101,A102,20,0.05
+,can you tell me charged a fee for a chargeback asap,A106,A106,A114,A121,1,1.0
+,question: verify who owns the business asap,A116,A101,A116,A112,2,0.5
+,set trial length to 14 days,A121,A121,A101,A112,1,1.0
+,need hlep: switch from test to live?,A123,A123,A110,A116,1,1.0
+,keep paymnet details for next time?,A110,A120,A112,A116,13,0.07692307692307693
+,how do i return a charge to the cusotmer,A112,A110,A105,A101,12,0.08333333333333333
+,"hi, give money back to a buyer plesae",A112,A111,A113,A123,14,0.07142857142857142
+,close business account?,A119,A119,A101,A116,1,1.0
+,help first payout is taking too long,A101,A101,A102,A103,1,1.0
+,how do i block suspicious payments,A107,A107,A123,A122,1,1.0
+,why not enough balance to refund for my shop,A113,A113,A112,A119,1,1.0
+,how do i sell to buyers abroad in their money,A109,A111,A113,A123,12,0.08333333333333333
+,question: first payout is taking too long on my account,A101,A101,A102,A119,1,1.0
+,give money back to a buyer please,A112,A111,A113,A123,14,0.07142857142857142
+,"hi, pricing for card processing for my shop",A114,A114,A104,A110,1,1.0
+,how do i payout schedule timing?,A101,A101,A102,A103,1,1.0
+,"hi, put a hold on a card on my account",A111,A111,A119,A103,1,1.0
+,help exchange rate on foreign sales,A109,A109,A101,A102,1,1.0
+,transfer to my bank is late,A102,A103,A102,A112,2,0.5
+,can you tell me update my bank detials asap,A103,A103,A102,A112,1,1.0
+,need help: exchange rate on foreign sales,A109,A109,A110,A116,1,1.0
+,question: how do i fight a chargeback for my shop,A105,A101,A102,A103,5,0.2
+,how do i what happens when recurring payment fails,A122,A122,A124,A112,1,1.0
+,exchange rate on foreign sales,A109,A109,A101,A102,1,1.0
+,why renewal charge failed for a subscirber,A122,A122,A113,A110,1,1.0
+,payout stuck in pending?,A102,A102,A101,A103,1,1.0
+,daily limit on fast payouts,A104,A104,A103,A116,1,1.0
+,need help: store customer card on file asap,A110,A110,A111,A113,1,1.0
+,"hi, send funds to my debit card asap",A104,A104,A113,A108,1,1.0
+,"hi, pratial refund for one item asap",A112,A113,A112,A101,2,0.5
+,"hi, get notified when paymnet succeeds asap",A124,A101,A102,A103,24,0.041666666666666664
+,why turn off prorated charges,A120,A120,A109,A107,1,1.0

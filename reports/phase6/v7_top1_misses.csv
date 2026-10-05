@@ -1,0 +1,48 @@
+fold,query_id,query,true_article_id,predicted_article_id,predicted_article_title,true_rank,category
+0,Q1014,return a charge to the customer for my shop,A112,A120,Changing a customer's subscription plan,2,Refunds
+0,Q1027,how do i authorization expired before i charged please,A111,A121,Free trials,2,Payments
+0,Q1032,why return a charge to the customer,A112,A120,Changing a customer's subscription plan,2,Refunds
+0,Q1052,stop fake orders with stolen cards,A107,A110,Saving a card for future payments,>N,Disputes
+0,Q1086,can you tell me stop fake orders with stolen cards asap,A107,A110,Saving a card for future payments,>N,Disputes
+0,Q1088,help fake card numbers for testing please,A123,A110,Saving a card for future payments,3,Developers
+0,Q1089,need help: authorization expired before i charged please,A111,A121,Free trials,2,Payments
+0,Q1107,need help: use a different checking account,A103,A108,Why was a payment declined?,>N,Payouts
+0,Q1137,help stop fake orders with stolen cards?,A107,A110,Saving a card for future payments,>N,Disputes
+0,Q1142,use a different checking account asap,A103,A108,Why was a payment declined?,>N,Payouts
+0,Q1151,authorization expired before i charged on my account,A111,A121,Free trials,2,Payments
+0,Q1172,question: use a different checking account,A103,A108,Why was a payment declined?,>N,Payouts
+0,Q1205,need help: exchange rate on foreign sales,A109,A110,Saving a card for future payments,2,Payments
+1,Q1047,how do i switch where deposits go,A103,A123,Using test mode,>N,Payouts
+1,Q1072,how do i switch where deposits go?,A103,A123,Using test mode,>N,Payouts
+1,Q1102,why verify who owns the business,A116,A124,Setting up webhooks,2,Account
+1,Q1146,question: switch where deposits go?,A103,A123,Using test mode,>N,Payouts
+1,Q1186,question: verify who owns the business asap,A116,A124,Setting up webhooks,2,Account
+2,Q1022,help partial refund for one item asap,A112,A113,Why did a refund fail?,2,Refunds
+2,Q1060,how do i give my employee access asap,A117,A112,Refunding a customer,3,Account
+2,Q1099,how do i move customer to a cheaper plan asap,A120,A112,Refunding a customer,>N,Subscriptions
+2,Q1100,move customer to a cheaper plan asap,A120,A112,Refunding a customer,>N,Subscriptions
+2,Q1101,"hi, give my employee access asap",A117,A112,Refunding a customer,>N,Account
+2,Q1108,partial refund for one item for my shop,A112,A113,Why did a refund fail?,2,Refunds
+2,Q1138,"hi, give my employee access for my shop",A117,A112,Refunding a customer,>N,Account
+2,Q1149,charge customers in euros?,A109,A112,Refunding a customer,3,Payments
+2,Q1169,need help: move customer to a cheaper plan for my shop,A120,A112,Refunding a customer,>N,Subscriptions
+2,Q1214,"hi, pratial refund for one item asap",A112,A113,Why did a refund fail?,2,Refunds
+3,Q1016,bank refused the charge for my shop,A108,A112,Refunding a customer,>N,Payments
+3,Q1037,question: charged a fee for a chargeback,A106,A105,Responding to a dispute,2,Disputes
+3,Q1044,why clsoe business acocunt,A119,A116,Verifying your business identity,2,Account
+3,Q1098,help update my bank details,A103,A102,Why was my payout delayed?,2,Payouts
+3,Q1115,why what happens when recurring payment fails,A122,A108,Why was a payment declined?,3,Subscriptions
+3,Q1120,bank refused the charge asap,A108,A112,Refunding a customer,>N,Payments
+3,Q1123,bank refused the charge on my account,A108,A112,Refunding a customer,>N,Payments
+3,Q1178,help what happens when recurring payment fails on my account,A122,A108,Why was a payment declined?,3,Subscriptions
+3,Q1204,can you tell me update my bank detials asap,A103,A102,Why was my payout delayed?,2,Payouts
+3,Q1207,how do i what happens when recurring payment fails,A122,A108,Why was a payment declined?,3,Subscriptions
+4,Q1013,can you tell me charge customers in eruos please,A109,A110,Saving a card for future payments,>N,Payments
+4,Q1033,how do i sell to buyers abroad in their money please,A109,A112,Refunding a customer,>N,Payments
+4,Q1082,"hi, charged a fee for a chargeback asap",A106,A105,Responding to a dispute,2,Disputes
+4,Q1112,get money faster same day on my account,A104,A110,Saving a card for future payments,>N,Payouts
+4,Q1139,how do i sell to buyers abroad in their money asap,A109,A112,Refunding a customer,>N,Payments
+4,Q1147,get money faster same day asap,A104,A110,Saving a card for future payments,3,Payouts
+4,Q1163,get money faster same day,A104,A110,Saving a card for future payments,>N,Payouts
+4,Q1185,can you tell me charged a fee for a chargeback asap,A106,A105,Responding to a dispute,2,Disputes
+4,Q1196,how do i sell to buyers abroad in their money,A109,A112,Refunding a customer,>N,Payments

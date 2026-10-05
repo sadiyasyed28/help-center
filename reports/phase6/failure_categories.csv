@@ -1,0 +1,24 @@
+query_id,query,true_article_id,predicted_top3,failure_category,explanation
+Q1052,stop fake orders with stolen cards,A107,"A110, A114, A104",vocabulary_gap,"Query words {'stolen', 'with', 'orders', 'fake', 'stop', 'cards'} missing from true article but found in predicted."
+Q1086,can you tell me stop fake orders with stolen cards asap,A107,"A110, A114, A104",vocabulary_gap,"Query words {'stolen', 'with', 'orders', 'fake', 'stop', 'me', 'cards', 'can', 'tell', 'asap'} missing from true article but found in predicted."
+Q1107,need help: use a different checking account,A103,"A108, A120, A116",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1137,help stop fake orders with stolen cards?,A107,"A110, A114, A111",vocabulary_gap,"Query words {'stolen', 'with', 'orders', 'fake', 'stop', 'cards', 'help'} missing from true article but found in predicted."
+Q1142,use a different checking account asap,A103,"A108, A120, A119",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1172,question: use a different checking account,A103,"A108, A101, A120",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1047,how do i switch where deposits go,A103,"A123, A102, A115",vocabulary_gap,"Query words {'i', 'deposits', 'how', 'where', 'switch', 'do', 'go'} missing from true article but found in predicted."
+Q1072,how do i switch where deposits go?,A103,"A123, A102, A115",vocabulary_gap,"Query words {'i', 'deposits', 'how', 'where', 'switch', 'do', 'go'} missing from true article but found in predicted."
+Q1146,question: switch where deposits go?,A103,"A123, A102, A115",vocabulary_gap,"Query words {'deposits', 'where', 'question', 'switch', 'go'} missing from true article but found in predicted."
+Q1099,how do i move customer to a cheaper plan asap,A120,"A112, A105, A113",vocabulary_gap,"Query words {'i', 'to', 'how', 'do', 'cheaper', 'asap', 'move'} missing from true article but found in predicted."
+Q1100,move customer to a cheaper plan asap,A120,"A112, A105, A113",vocabulary_gap,"Query words {'to', 'cheaper', 'asap', 'move'} missing from true article but found in predicted."
+Q1101,"hi, give my employee access asap",A117,"A112, A116, A114",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1138,"hi, give my employee access for my shop",A117,"A112, A116, A114",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1169,need help: move customer to a cheaper plan for my shop,A120,"A112, A105, A110",vocabulary_gap,"Query words {'need', 'to', 'my', 'shop', 'help', 'cheaper', 'move'} missing from true article but found in predicted."
+Q1016,bank refused the charge for my shop,A108,"A112, A102, A113",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1120,bank refused the charge asap,A108,"A112, A113, A103",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1123,bank refused the charge on my account,A108,"A112, A103, A113",vocabulary_gap,"Query words {'my', 'refused', 'on', 'account', 'charge'} missing from true article but found in predicted."
+Q1013,can you tell me charge customers in eruos please,A109,"A110, A105, A112",same_category_confusion,Confused with another article in the Payments category.
+Q1033,how do i sell to buyers abroad in their money please,A109,"A112, A113, A123",vocabulary_gap,"Query words {'their', 'i', 'money', 'how', 'buyers', 'do', 'sell', 'abroad', 'please'} missing from true article but found in predicted."
+Q1112,get money faster same day on my account,A104,"A110, A101, A113",vocabulary_gap,"Query words {'same', 'my', 'day', 'money', 'get', 'on', 'faster', 'account'} missing from true article but found in predicted."
+Q1139,how do i sell to buyers abroad in their money asap,A109,"A112, A113, A123",vocabulary_gap,"Query words {'their', 'i', 'money', 'how', 'buyers', 'do', 'sell', 'abroad', 'asap'} missing from true article but found in predicted."
+Q1163,get money faster same day,A104,"A110, A112, A113",semantic_ambiguity,Query is vague or could apply to multiple intents.
+Q1196,how do i sell to buyers abroad in their money,A109,"A112, A113, A123",vocabulary_gap,"Query words {'their', 'i', 'money', 'how', 'buyers', 'do', 'sell', 'abroad'} missing from true article but found in predicted."

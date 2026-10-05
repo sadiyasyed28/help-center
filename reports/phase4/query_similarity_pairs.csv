@@ -1,0 +1,210 @@
+query_id_1,query_1,query_id_2,query_2,similarity,article_1,article_2,same_article
+Q1056,can you tell me cancel everything and leave,Q1184,can you tell me cancel everything and leave,1.0000000000000004,A119,A119,True
+Q1071,customer filed a chargeback,Q1132,customer filed a chargeback,1.0,A105,A105,True
+Q1004,"hi, dunning settings for subscriptions",Q1029,dunning settings for subscriptions,0.983271267103457,A122,A122,True
+Q1061,not enough balance to refund for my shop,Q1195,why not enough balance to refund for my shop,0.9762995907461628,A113,A113,True
+Q1202,help exchange rate on foreign sales,Q1208,exchange rate on foreign sales,0.9750834656272179,A109,A109,True
+Q1139,how do i sell to buyers abroad in their money asap,Q1196,how do i sell to buyers abroad in their money,0.9725108819434188,A109,A109,True
+Q1094,capture part of the amount,Q1110,"hi, capture part of the amount",0.9711125938323373,A111,A111,True
+Q1135,refund did not go through,Q1150,"hi, refund did not go through",0.969741217462914,A113,A113,True
+Q1113,help fake card numbers for testing?,Q1118,fake card numbers for testing?,0.9692947328527177,A123,A123,True
+Q1099,how do i move customer to a cheaper plan asap,Q1100,move customer to a cheaper plan asap,0.967340040582103,A120,A120,True
+Q1070,daily limit on fast payouts asap,Q1211,daily limit on fast payouts,0.9641037096256007,A104,A104,True
+Q1115,why what happens when recurring payment fails,Q1207,how do i what happens when recurring payment fails,0.9600978067499969,A122,A122,True
+Q1147,get money faster same day asap,Q1163,get money faster same day,0.9572074866714106,A104,A104,True
+Q1033,how do i sell to buyers abroad in their money please,Q1196,how do i sell to buyers abroad in their money,0.9494534273945687,A109,A109,True
+Q1024,need help: put a hold on a card,Q1125,need help: put a hold on a card asap,0.94570316794476,A111,A111,True
+Q1097,"hi, capture part of the amount for my shop",Q1110,"hi, capture part of the amount",0.9435204906122677,A111,A111,True
+Q1202,help exchange rate on foreign sales,Q1205,need help: exchange rate on foreign sales,0.9425023692100565,A109,A109,True
+Q1008,help verify event signature,Q1134,why verify event signature,0.9424350642268964,A124,A124,True
+Q1205,need help: exchange rate on foreign sales,Q1208,exchange rate on foreign sales,0.9403497563591543,A109,A109,True
+Q1095,help turn off prorated charges,Q1216,why turn off prorated charges,0.9400848827111908,A120,A120,True
+Q1060,how do i give my employee access asap,Q1101,"hi, give my employee access asap",0.9389338130801499,A117,A117,True
+Q1027,how do i authorization expired before i charged please,Q1089,need help: authorization expired before i charged please,0.9345172459772177,A111,A111,True
+Q1017,question: how much do you take per transaction?,Q1076,question: how much do you take per transaction,0.9341988522996051,A114,A114,True
+Q1023,how do i send funds to my debit card asap,Q1213,"hi, send funds to my debit card asap",0.9317963589201423,A104,A104,True
+Q1080,need help: do i get the dispute fee back,Q1162,need help: do i get the dispute fee back please,0.9259215329020689,A106,A106,True
+Q1033,how do i sell to buyers abroad in their money please,Q1139,how do i sell to buyers abroad in their money asap,0.9233537900396933,A109,A109,True
+Q1119,"hi, refund did not go through on my account",Q1150,"hi, refund did not go through",0.9229903812570512,A113,A113,True
+Q1183,first payout is taking too long for my shop,Q1193,help first payout is taking too long,0.9221929516555665,A101,A101,True
+Q1115,why what happens when recurring payment fails,Q1178,help what happens when recurring payment fails on my account,0.9191435764689444,A122,A122,True
+Q1106,why daily limit on fast payouts for my shop,Q1211,daily limit on fast payouts,0.9185849700919821,A104,A104,True
+Q1047,how do i switch where deposits go,Q1072,how do i switch where deposits go?,0.9170192589232603,A103,A103,True
+Q1094,capture part of the amount,Q1097,"hi, capture part of the amount for my shop",0.916264630972438,A111,A111,True
+Q1178,help what happens when recurring payment fails on my account,Q1207,how do i what happens when recurring payment fails,0.9140560032011533,A122,A122,True
+Q1153,"hi, get notified when payment succeeds for my shop",Q1176,get notified when payment succeeds asap,0.9130376829610096,A124,A124,True
+Q1111,need help: transfer to my bank is late,Q1203,transfer to my bank is late,0.9126339509186605,A102,A102,True
+Q1101,"hi, give my employee access asap",Q1138,"hi, give my employee access for my shop",0.9120875044640874,A117,A117,True
+Q1112,get money faster same day on my account,Q1163,get money faster same day,0.9116058968509873,A104,A104,True
+Q1052,stop fake orders with stolen cards,Q1086,can you tell me stop fake orders with stolen cards asap,0.9090758766747531,A107,A107,True
+Q1054,how do i try payments without real money?,Q1083,how do i try payments without real money,0.9087544508256613,A123,A123,True
+Q1107,need help: use a different checking account,Q1142,use a different checking account asap,0.906469866268234,A103,A103,True
+Q1102,why verify who owns the business,Q1145,need help: verify who owns the business,0.9057361403326515,A116,A116,True
+Q1010,help block suspicious payments on my account,Q1136,question: block suspicious payments on my account,0.9014948848231217,A107,A107,True
+Q1117,question: webhook endpoint not receiving events,Q1164,need help: webhook endpoint not receiving events,0.8987538488121334,A124,A124,True
+Q1052,stop fake orders with stolen cards,Q1137,help stop fake orders with stolen cards?,0.8984416923132712,A107,A107,True
+Q1043,need help: account needs more information for my shop,Q1092,help account needs more information,0.8980815769011005,A116,A116,True
+Q1127,why require 2fa for my team asap,Q1157,"hi, require 2fa for my team",0.89526010057542,A118,A118,True
+Q1014,return a charge to the customer for my shop,Q1032,why return a charge to the customer,0.8952423146453646,A112,A112,True
+Q1119,"hi, refund did not go through on my account",Q1135,refund did not go through,0.8950618160267722,A113,A113,True
+Q1027,how do i authorization expired before i charged please,Q1151,authorization expired before i charged on my account,0.8922146390895471,A111,A111,True
+Q1012,close business account,Q1192,close business account?,0.891816778538136,A119,A119,True
+Q1075,how do i keep payment details for next time please,Q1171,help keep payment details for next time,0.891419495869981,A110,A110,True
+Q1059,not enough balance to refund please,Q1061,not enough balance to refund for my shop,0.890080476184942,A113,A113,True
+Q1010,help block suspicious payments on my account,Q1194,how do i block suspicious payments,0.8865492270879706,A107,A107,True
+Q1129,remind users before trial expires for my shop,Q1160,question: remind users before trial expires,0.8860371041212433,A121,A121,True
+Q1070,daily limit on fast payouts asap,Q1106,why daily limit on fast payouts for my shop,0.8856111772720018,A104,A104,True
+Q1142,use a different checking account asap,Q1172,question: use a different checking account,0.8848021009637079,A103,A103,True
+Q1003,how do i upload id to keep my account active?,Q1105,question: upload id to keep my account active?,0.8835162743502492,A116,A116,True
+Q1020,"hi, payout schedule timing please",Q1180,help payout schedule timing,0.8832221426271047,A101,A101,True
+Q1091,delete my account permanently please,Q1116,help delete my account permanently on my account,0.8828351832774972,A119,A119,True
+Q1066,help where are my tax documents please,Q1128,question: where are my tax documents please,0.8818023997602439,A115,A115,True
+Q1022,help partial refund for one item asap,Q1108,partial refund for one item for my shop,0.8817263318844283,A112,A112,True
+Q1041,question: what does decline code mean,Q1154,how do i what does decline code mean,0.8774715975264231,A108,A108,True
+Q1046,question: try payments without real money,Q1083,how do i try payments without real money,0.8758490415632446,A123,A123,True
+Q1072,how do i switch where deposits go?,Q1146,question: switch where deposits go?,0.8749282279092866,A103,A103,True
+Q1016,bank refused the charge for my shop,Q1120,bank refused the charge asap,0.8738915433303137,A108,A108,True
+Q1112,get money faster same day on my account,Q1147,get money faster same day asap,0.8725959893595708,A104,A104,True
+Q1165,"hi, give money back to a buyer",Q1198,give money back to a buyer please,0.8718091531514052,A112,A112,True
+Q1089,need help: authorization expired before i charged please,Q1151,authorization expired before i charged on my account,0.8708050206245431,A111,A111,True
+Q1131,send funds to my debit card for my shop,Q1213,"hi, send funds to my debit card asap",0.8695555893550913,A104,A104,True
+Q1059,not enough balance to refund please,Q1195,why not enough balance to refund for my shop,0.868985204630507,A113,A113,True
+Q1082,"hi, charged a fee for a chargeback asap",Q1185,can you tell me charged a fee for a chargeback asap,0.8668148962033394,A106,A106,True
+Q1104,"hi, lost my authenticator phone on my account",Q1140,need help: lost my authenticator phone,0.8657304229568337,A118,A118,True
+Q1062,how do i annual statement for accountant on my account,Q1124,"hi, annual statement for accountant please",0.8657120817142426,A115,A115,True
+Q1011,how do i deadline to respond to dispute on my account,Q1028,need help: deadline to respond to dispute,0.8629983280744126,A105,A105,True
+Q1091,delete my account permanently please,Q1174,can you tell me delete my account permanently,0.8624696044223394,A119,A119,True
+Q1081,breakdown of charges on a sale?,Q1144,"hi, breakdown of charges on a sale",0.8623717403257557,A114,A114,True
+Q1063,why account needs more information?,Q1092,help account needs more information,0.8616894567717751,A116,A116,True
+Q1058,can you tell me lost my authenticator phone,Q1140,need help: lost my authenticator phone,0.8609290204259222,A118,A118,True
+Q1023,how do i send funds to my debit card asap,Q1131,send funds to my debit card for my shop,0.8608305965687288,A104,A104,True
+Q1088,help fake card numbers for testing please,Q1113,help fake card numbers for testing?,0.8604057569211903,A123,A123,True
+Q1102,why verify who owns the business,Q1186,question: verify who owns the business asap,0.8584136037065573,A116,A116,True
+Q1021,can you tell me invite a coworker to the dashboard asap,Q1114,how do i invite a coworker to the dashboard for my shop,0.8555861118562279,A117,A117,True
+Q1180,help payout schedule timing,Q1200,how do i payout schedule timing?,0.8542629099357414,A101,A101,True
+Q1100,move customer to a cheaper plan asap,Q1169,need help: move customer to a cheaper plan for my shop,0.8538724439375102,A120,A120,True
+Q1060,how do i give my employee access asap,Q1138,"hi, give my employee access for my shop",0.8534718493207555,A117,A117,True
+Q1116,help delete my account permanently on my account,Q1174,can you tell me delete my account permanently,0.8533882732721685,A119,A119,True
+Q1107,need help: use a different checking account,Q1172,question: use a different checking account,0.8532535348202281,A103,A103,True
+Q1120,bank refused the charge asap,Q1123,bank refused the charge on my account,0.8516074568099931,A108,A108,True
+Q1129,remind users before trial expires for my shop,Q1175,can you tell me remind users before trial expires on my account,0.8509021745036484,A121,A121,True
+Q1040,question: set trial length to 14 days please,Q1187,set trial length to 14 days,0.8483795128726725,A121,A121,True
+Q1015,can you tell me how much do you take per transaction,Q1076,question: how much do you take per transaction,0.8474238390311531,A114,A114,True
+Q1058,can you tell me lost my authenticator phone,Q1104,"hi, lost my authenticator phone on my account",0.8460108121516666,A118,A118,True
+Q1042,too many card testing attempts on my account,Q1057,too many card testing attempts?,0.8442560984483656,A107,A107,True
+Q1045,question: breakdown of charges on a sale for my shop,Q1144,"hi, breakdown of charges on a sale",0.8410577991619779,A114,A114,True
+Q1030,need help: set up two factor login please,Q1067,question: set up two factor login please,0.8408762628333322,A118,A118,True
+Q1121,can you tell me transfer to my bank is late for my shop,Q1203,transfer to my bank is late,0.8406720541729021,A102,A102,True
+Q1016,bank refused the charge for my shop,Q1123,bank refused the charge on my account,0.8399618531882361,A108,A108,True
+Q1136,question: block suspicious payments on my account,Q1194,how do i block suspicious payments,0.8384281504371642,A107,A107,True
+Q1176,get notified when payment succeeds asap,Q1215,"hi, get notified when paymnet succeeds asap",0.835579572431187,A124,A124,True
+Q1164,need help: webhook endpoint not receiving events,Q1182,why webhook endpoint not receiving events on my accuont,0.8340928493092409,A124,A124,True
+Q1193,help first payout is taking too long,Q1197,question: first payout is taking too long on my account,0.8339212481859279,A101,A101,True
+Q1019,how do i store customer card on file,Q1212,need help: store customer card on file asap,0.8297250985387684,A110,A110,True
+Q1035,why annual statement for accountant?,Q1062,how do i annual statement for accountant on my account,0.8295472245723986,A115,A115,True
+Q1009,question: switch from test to live,Q1122,"hi, switch from test to live asap",0.8279888435711913,A123,A123,True
+Q1035,why annual statement for accountant?,Q1124,"hi, annual statement for accountant please",0.8268098753193376,A115,A115,True
+Q1088,help fake card numbers for testing please,Q1118,fake card numbers for testing?,0.8266212112241257,A123,A123,True
+Q1134,why verify event signature,Q1141,question: verify event signature on my account,0.8260880595144835,A124,A124,True
+Q1099,how do i move customer to a cheaper plan asap,Q1169,need help: move customer to a cheaper plan for my shop,0.825985004570451,A120,A120,True
+Q1096,question: customer filed a chargeback for my shop,Q1132,customer filed a chargeback,0.8243809882792,A105,A105,True
+Q1071,customer filed a chargeback,Q1096,question: customer filed a chargeback for my shop,0.8243809882792,A105,A105,True
+Q1037,question: charged a fee for a chargeback,Q1082,"hi, charged a fee for a chargeback asap",0.8240142955750245,A106,A106,True
+Q1183,first payout is taking too long for my shop,Q1197,question: first payout is taking too long on my account,0.8233741546253489,A101,A101,True
+Q1008,help verify event signature,Q1141,question: verify event signature on my account,0.8231843683631652,A124,A124,True
+Q1087,how do i limit what staff can see,Q1130,need help: limit what staff can see for my shop,0.8224372649616603,A117,A117,True
+Q1073,why payout stuck in pending for my shop,Q1210,payout stuck in pending?,0.8218020815627163,A102,A102,True
+Q1034,need help: require 2fa for my team please,Q1157,"hi, require 2fa for my team",0.8212704644447679,A118,A118,True
+Q1117,question: webhook endpoint not receiving events,Q1182,why webhook endpoint not receiving events on my accuont,0.8202933009394346,A124,A124,True
+Q1145,need help: verify who owns the business,Q1186,question: verify who owns the business asap,0.8195275354790701,A116,A116,True
+Q1065,can you tell me turn off prorated charges on my account,Q1216,why turn off prorated charges,0.8187370945964187,A120,A120,True
+Q1086,can you tell me stop fake orders with stolen cards asap,Q1137,help stop fake orders with stolen cards?,0.8169236348626906,A107,A107,True
+Q1065,can you tell me turn off prorated charges on my account,Q1095,help turn off prorated charges,0.8157419515647935,A120,A120,True
+Q1064,need help: get my 1099 form,Q1079,"hi, get my 1099 form",0.8144131595440983,A115,A115,True
+Q1160,question: remind users before trial expires,Q1175,can you tell me remind users before trial expires on my account,0.8137848066406126,A121,A121,True
+Q1161,why customer never got their money back on my account,Q1168,"hi, customer never got their money back?",0.8126151357802748,A113,A113,True
+Q1003,how do i upload id to keep my account active?,Q1179,help upload id to keep my account active for my shop,0.8120705573635262,A116,A116,True
+Q1154,how do i what does decline code mean,Q1166,need help: what does decline code mean?,0.8093043505496252,A108,A108,True
+Q1039,can you tell me payment failed at checkout please,Q1156,payment failed at checkout asap,0.8080945901092833,A108,A108,True
+Q1005,need help: upgrade a subscriber mid month on my account,Q1050,can you tell me upgrade a subscriber mid month asap,0.8070793300768574,A120,A120,True
+Q1020,"hi, payout schedule timing please",Q1200,how do i payout schedule timing?,0.8052125291251422,A101,A101,True
+Q1080,need help: do i get the dispute fee back,Q1090,do i get the dispute fee back on my account,0.8042585722892787,A106,A106,True
+Q1078,customer charged when trial ended please,Q1173,why customer charged when trial ended?,0.8032682315381904,A121,A121,True
+Q1165,"hi, give money back to a buyer",Q1191,"hi, give money back to a buyer plesae",0.8027049501596374,A112,A112,True
+Q1077,"hi, cost of losing a dispute for my shop",Q1093,can you tell me cost of losing a dispute,0.8000929679637494,A106,A106,True
+Q1043,need help: account needs more information for my shop,Q1063,why account needs more information?,0.7982416649815085,A116,A116,True
+Q1153,"hi, get notified when payment succeeds for my shop",Q1215,"hi, get notified when paymnet succeeds asap",0.7946112000483722,A124,A124,True
+Q1047,how do i switch where deposits go,Q1146,question: switch where deposits go?,0.7944034826727132,A103,A103,True
+Q1068,can you tell me pricing for card processing?,Q1199,"hi, pricing for card processing for my shop",0.7941308715604428,A114,A114,True
+Q1046,question: try payments without real money,Q1054,how do i try payments without real money?,0.7940944010061487,A123,A123,True
+Q1084,why why is my deposit held up,Q1158,can you tell me why is my deposit held up for my shop,0.7917420457699114,A102,A102,True
+Q1074,help pricing for card processing pelase,Q1199,"hi, pricing for card processing for my shop",0.7889464484029698,A114,A114,True
+Q1015,can you tell me how much do you take per transaction,Q1017,question: how much do you take per transaction?,0.788016671365103,A114,A114,True
+Q1034,need help: require 2fa for my team please,Q1127,why require 2fa for my team asap,0.7871174036159609,A118,A118,True
+Q1051,how do i where are my tax documents?,Q1066,help where are my tax documents please,0.7868685023053223,A115,A115,True
+Q1025,can you tell me payout stuck in pending asap,Q1073,why payout stuck in pending for my shop,0.7845792294692833,A102,A102,True
+Q1109,need help: charge the same card again later please,Q1133,can you tell me charge the same card again later,0.7832182808542973,A110,A110,True
+Q1025,can you tell me payout stuck in pending asap,Q1210,payout stuck in pending?,0.7787024376249296,A102,A102,True
+Q1111,need help: transfer to my bank is late,Q1121,can you tell me transfer to my bank is late for my shop,0.7672258582267215,A102,A102,True
+Q1105,question: upload id to keep my account active?,Q1179,help upload id to keep my account active for my shop,0.7647921936226644,A116,A116,True
+Q1045,question: breakdown of charges on a sale for my shop,Q1081,breakdown of charges on a sale?,0.7646393569133645,A114,A114,True
+Q1038,can you tell me when does my money arrvie on my account,Q1177,when does my money arrvie please,0.7604866347118336,A101,A101,True
+Q1041,question: what does decline code mean,Q1166,need help: what does decline code mean?,0.7590293383436526,A108,A108,True
+Q1037,question: charged a fee for a chargeback,Q1185,can you tell me charged a fee for a chargeback asap,0.7581826663572984,A106,A106,True
+Q1029,dunning settings for subscriptions,Q1159,need help: dunning settigns for subscriptions for my shop,0.7544411496437762,A122,A122,True
+Q1090,do i get the dispute fee back on my account,Q1162,need help: do i get the dispute fee back please,0.7446803301037183,A106,A106,True
+Q1004,"hi, dunning settings for subscriptions",Q1159,need help: dunning settigns for subscriptions for my shop,0.7418203051652248,A122,A122,True
+Q1051,how do i where are my tax documents?,Q1128,question: where are my tax documents please,0.7357543212387261,A115,A115,True
+Q1191,"hi, give money back to a buyer plesae",Q1198,give money back to a buyer please,0.7288945188466273,A112,A112,True
+Q1002,how do i fight a chargeback?,Q1006,need help: how do i fight a chargeback please,0.7198092492184439,A105,A105,True
+Q1068,can you tell me pricing for card processing?,Q1074,help pricing for card processing pelase,0.7174680286648065,A114,A114,True
+Q1103,need help: charge the same card again laetr,Q1109,need help: charge the same card again later please,0.7170894381539273,A110,A110,True
+Q1024,need help: put a hold on a card,Q1201,"hi, put a hold on a card on my account",0.7145419135190013,A111,A111,True
+Q1171,help keep payment details for next time,Q1189,keep paymnet details for next time?,0.7145114295321974,A110,A110,True
+Q1002,how do i fight a chargeback?,Q1206,question: how do i fight a chargeback for my shop,0.7032802751904514,A105,A105,True
+Q1018,inivte a coworker to the dashboard,Q1114,how do i invite a coworker to the dashboard for my shop,0.7029978984256168,A117,A117,True
+Q1078,customer charged when trial ended please,Q1152,help customer charegd when trial ended,0.7008718404223545,A121,A121,True
+Q1050,can you tell me upgrade a subscriber mid month asap,Q1167,why upgrade a subscriber mid mnoth,0.6971060556863905,A120,A120,True
+Q1005,need help: upgrade a subscriber mid month on my account,Q1167,why upgrade a subscriber mid mnoth,0.6919687354019809,A120,A120,True
+Q1069,help customer never got tehir money back,Q1161,why customer never got their money back on my account,0.6854104665454295,A113,A113,True
+Q1122,"hi, switch from test to live asap",Q1188,need hlep: switch from test to live?,0.6843104565980764,A123,A123,True
+Q1018,inivte a coworker to the dashboard,Q1021,can you tell me invite a coworker to the dashboard asap,0.6814091713297283,A117,A117,True
+Q1125,need help: put a hold on a card asap,Q1201,"hi, put a hold on a card on my account",0.675744551244231,A111,A111,True
+Q1126,how do i cancel everything and laeve for my shop,Q1184,can you tell me cancel everything and leave,0.675023881822843,A119,A119,True
+Q1056,can you tell me cancel everything and leave,Q1126,how do i cancel everything and laeve for my shop,0.675023881822843,A119,A119,True
+Q1075,how do i keep payment details for next time please,Q1189,keep paymnet details for next time?,0.6736744443861001,A110,A110,True
+Q1049,why get my 1099 form?,Q1079,"hi, get my 1099 form",0.673259941653993,A115,A115,True
+Q1006,need help: how do i fight a chargeback please,Q1206,question: how do i fight a chargeback for my shop,0.6716919420857034,A105,A105,True
+Q1069,help customer never got tehir money back,Q1168,"hi, customer never got their money back?",0.6674006426884449,A113,A113,True
+Q1022,help partial refund for one item asap,Q1214,"hi, pratial refund for one item asap",0.6662202819692196,A112,A112,True
+Q1009,question: switch from test to live,Q1188,need hlep: switch from test to live?,0.6532576692668937,A123,A123,True
+Q1085,pamyent failed at checkout for my shop,Q1156,payment failed at checkout asap,0.6512059297457321,A108,A108,True
+Q1030,need help: set up two factor login please,Q1036,how do i set up two factor loign please,0.6451774709862973,A118,A118,True
+Q1037,question: charged a fee for a chargeback,Q1206,question: how do i fight a chargeback for my shop,0.6429788872333414,A106,A105,False
+Q1152,help customer charegd when trial ended,Q1173,why customer charged when trial ended?,0.6412589090910404,A121,A121,True
+Q1096,question: customer filed a chargeback for my shop,Q1206,question: how do i fight a chargeback for my shop,0.6406538679431081,A105,A105,True
+Q1026,help deadline to repsond to dispute asap,Q1028,need help: deadline to respond to dispute,0.638074691123171,A105,A105,True
+Q1036,how do i set up two factor loign please,Q1067,question: set up two factor login please,0.6284692237898433,A118,A118,True
+Q1037,question: charged a fee for a chargeback,Q1096,question: customer filed a chargeback for my shop,0.62594681395048,A106,A105,False
+Q1048,charge csutomers in euros,Q1149,charge customers in euros?,0.6179068424278052,A109,A109,True
+Q1001,why set trial lentgh to 14 days asap,Q1187,set trial length to 14 days,0.617220255851878,A121,A121,True
+Q1108,partial refund for one item for my shop,Q1214,"hi, pratial refund for one item asap",0.615415303699642,A112,A112,True
+Q1057,too many card testing attempts?,Q1143,need help: too many card testing attemtps please,0.6153928558125705,A107,A107,True
+Q1053,question: store csutomer card on file asap,Q1212,need help: store customer card on file asap,0.6137529703306802,A110,A110,True
+Q1049,why get my 1099 form?,Q1064,need help: get my 1099 form,0.6129697374113495,A115,A115,True
+Q1032,why return a charge to the customer,Q1190,how do i return a charge to the cusotmer,0.6112464206179111,A112,A112,True
+Q1103,need help: charge the same card again laetr,Q1133,can you tell me charge the same card again later,0.6070974789684159,A110,A110,True
+Q1042,too many card testing attempts on my account,Q1143,need help: too many card testing attemtps please,0.599680734601753,A107,A107,True
+Q1019,how do i store customer card on file,Q1053,question: store csutomer card on file asap,0.5987980477741502,A110,A110,True
+Q1011,how do i deadline to respond to dispute on my account,Q1026,help deadline to repsond to dispute asap,0.5987794001912851,A105,A105,True
+Q1014,return a charge to the customer for my shop,Q1190,how do i return a charge to the cusotmer,0.5888860059133888,A112,A112,True
+Q1007,"hi, cost of loisng a dispute asap",Q1077,"hi, cost of losing a dispute for my shop",0.5830360935219742,A106,A106,True
+Q1087,how do i limit what staff can see,Q1148,question: lmiit what staff can see,0.5806824395723909,A117,A117,True
+Q1039,can you tell me payment failed at checkout please,Q1085,pamyent failed at checkout for my shop,0.5694509315101071,A108,A108,True
+Q1031,renewal charge failed for a susbcriber?,Q1209,why renewal charge failed for a subscirber,0.5410443493215437,A122,A122,True
+Q1170,how do i when does my money arrive,Q1177,when does my money arrvie please,0.5307219597893921,A101,A101,True
+Q1098,help update my bank details,Q1204,can you tell me update my bank detials asap,0.5277612277015957,A103,A103,True
+Q1001,why set trial lentgh to 14 days asap,Q1040,question: set trial length to 14 days please,0.5236370199947622,A121,A121,True
+Q1084,why why is my deposit held up,Q1155,help why is my deopsit held up,0.5235084047405386,A102,A102,True
+Q1130,need help: limit what staff can see for my shop,Q1148,question: lmiit what staff can see,0.5218854354021,A117,A117,True
+Q1007,"hi, cost of loisng a dispute asap",Q1093,can you tell me cost of losing a dispute,0.5152049126857916,A106,A106,True

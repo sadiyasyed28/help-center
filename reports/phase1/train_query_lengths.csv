@@ -1,0 +1,217 @@
+query_id,query,relevant_article_id,char_count,word_count,tokens,token_count
+Q1001,why set trial lentgh to 14 days asap,A121,36,8,"['why', 'set', 'trial', 'lentgh', 'to', '14', 'days', 'asap']",8
+Q1002,how do i fight a chargeback?,A105,28,6,"['how', 'do', 'i', 'fight', 'a', 'chargeback']",6
+Q1003,how do i upload id to keep my account active?,A116,45,10,"['how', 'do', 'i', 'upload', 'id', 'to', 'keep', 'my', 'account', 'active']",10
+Q1004,"hi, dunning settings for subscriptions",A122,38,5,"['hi', 'dunning', 'settings', 'for', 'subscriptions']",5
+Q1005,need help: upgrade a subscriber mid month on my account,A120,55,10,"['need', 'help', 'upgrade', 'a', 'subscriber', 'mid', 'month', 'on', 'my', 'account']",10
+Q1006,need help: how do i fight a chargeback please,A105,45,9,"['need', 'help', 'how', 'do', 'i', 'fight', 'a', 'chargeback', 'please']",9
+Q1007,"hi, cost of loisng a dispute asap",A106,33,7,"['hi', 'cost', 'of', 'loisng', 'a', 'dispute', 'asap']",7
+Q1008,help verify event signature,A124,27,4,"['help', 'verify', 'event', 'signature']",4
+Q1009,question: switch from test to live,A123,34,6,"['question', 'switch', 'from', 'test', 'to', 'live']",6
+Q1010,help block suspicious payments on my account,A107,44,7,"['help', 'block', 'suspicious', 'payments', 'on', 'my', 'account']",7
+Q1011,how do i deadline to respond to dispute on my account,A105,53,11,"['how', 'do', 'i', 'deadline', 'to', 'respond', 'to', 'dispute', 'on', 'my', 'account']",11
+Q1012,close business account,A119,22,3,"['close', 'business', 'account']",3
+Q1013,can you tell me charge customers in eruos please,A109,48,9,"['can', 'you', 'tell', 'me', 'charge', 'customers', 'in', 'eruos', 'please']",9
+Q1014,return a charge to the customer for my shop,A112,43,9,"['return', 'a', 'charge', 'to', 'the', 'customer', 'for', 'my', 'shop']",9
+Q1015,can you tell me how much do you take per transaction,A114,52,11,"['can', 'you', 'tell', 'me', 'how', 'much', 'do', 'you', 'take', 'per', 'transaction']",11
+Q1016,bank refused the charge for my shop,A108,35,7,"['bank', 'refused', 'the', 'charge', 'for', 'my', 'shop']",7
+Q1017,question: how much do you take per transaction?,A114,47,8,"['question', 'how', 'much', 'do', 'you', 'take', 'per', 'transaction']",8
+Q1018,inivte a coworker to the dashboard,A117,34,6,"['inivte', 'a', 'coworker', 'to', 'the', 'dashboard']",6
+Q1019,how do i store customer card on file,A110,36,8,"['how', 'do', 'i', 'store', 'customer', 'card', 'on', 'file']",8
+Q1020,"hi, payout schedule timing please",A101,33,5,"['hi', 'payout', 'schedule', 'timing', 'please']",5
+Q1021,can you tell me invite a coworker to the dashboard asap,A117,55,11,"['can', 'you', 'tell', 'me', 'invite', 'a', 'coworker', 'to', 'the', 'dashboard', 'asap']",11
+Q1022,help partial refund for one item asap,A112,37,7,"['help', 'partial', 'refund', 'for', 'one', 'item', 'asap']",7
+Q1023,how do i send funds to my debit card asap,A104,41,10,"['how', 'do', 'i', 'send', 'funds', 'to', 'my', 'debit', 'card', 'asap']",10
+Q1024,need help: put a hold on a card,A111,31,8,"['need', 'help', 'put', 'a', 'hold', 'on', 'a', 'card']",8
+Q1025,can you tell me payout stuck in pending asap,A102,44,9,"['can', 'you', 'tell', 'me', 'payout', 'stuck', 'in', 'pending', 'asap']",9
+Q1026,help deadline to repsond to dispute asap,A105,40,7,"['help', 'deadline', 'to', 'repsond', 'to', 'dispute', 'asap']",7
+Q1027,how do i authorization expired before i charged please,A111,54,9,"['how', 'do', 'i', 'authorization', 'expired', 'before', 'i', 'charged', 'please']",9
+Q1028,need help: deadline to respond to dispute,A105,41,7,"['need', 'help', 'deadline', 'to', 'respond', 'to', 'dispute']",7
+Q1029,dunning settings for subscriptions,A122,34,4,"['dunning', 'settings', 'for', 'subscriptions']",4
+Q1030,need help: set up two factor login please,A118,41,8,"['need', 'help', 'set', 'up', 'two', 'factor', 'login', 'please']",8
+Q1031,renewal charge failed for a susbcriber?,A122,39,6,"['renewal', 'charge', 'failed', 'for', 'a', 'susbcriber']",6
+Q1032,why return a charge to the customer,A112,35,7,"['why', 'return', 'a', 'charge', 'to', 'the', 'customer']",7
+Q1033,how do i sell to buyers abroad in their money please,A109,52,11,"['how', 'do', 'i', 'sell', 'to', 'buyers', 'abroad', 'in', 'their', 'money', 'please']",11
+Q1034,need help: require 2fa for my team please,A118,41,8,"['need', 'help', 'require', '2fa', 'for', 'my', 'team', 'please']",8
+Q1035,why annual statement for accountant?,A115,36,5,"['why', 'annual', 'statement', 'for', 'accountant']",5
+Q1036,how do i set up two factor loign please,A118,39,9,"['how', 'do', 'i', 'set', 'up', 'two', 'factor', 'loign', 'please']",9
+Q1037,question: charged a fee for a chargeback,A106,40,7,"['question', 'charged', 'a', 'fee', 'for', 'a', 'chargeback']",7
+Q1038,can you tell me when does my money arrvie on my account,A101,55,12,"['can', 'you', 'tell', 'me', 'when', 'does', 'my', 'money', 'arrvie', 'on', 'my', 'account']",12
+Q1039,can you tell me payment failed at checkout please,A108,49,9,"['can', 'you', 'tell', 'me', 'payment', 'failed', 'at', 'checkout', 'please']",9
+Q1040,question: set trial length to 14 days please,A121,44,8,"['question', 'set', 'trial', 'length', 'to', '14', 'days', 'please']",8
+Q1041,question: what does decline code mean,A108,37,6,"['question', 'what', 'does', 'decline', 'code', 'mean']",6
+Q1042,too many card testing attempts on my account,A107,44,8,"['too', 'many', 'card', 'testing', 'attempts', 'on', 'my', 'account']",8
+Q1043,need help: account needs more information for my shop,A116,53,9,"['need', 'help', 'account', 'needs', 'more', 'information', 'for', 'my', 'shop']",9
+Q1044,why clsoe business acocunt,A119,26,4,"['why', 'clsoe', 'business', 'acocunt']",4
+Q1045,question: breakdown of charges on a sale for my shop,A114,52,10,"['question', 'breakdown', 'of', 'charges', 'on', 'a', 'sale', 'for', 'my', 'shop']",10
+Q1046,question: try payments without real money,A123,41,6,"['question', 'try', 'payments', 'without', 'real', 'money']",6
+Q1047,how do i switch where deposits go,A103,33,7,"['how', 'do', 'i', 'switch', 'where', 'deposits', 'go']",7
+Q1048,charge csutomers in euros,A109,25,4,"['charge', 'csutomers', 'in', 'euros']",4
+Q1049,why get my 1099 form?,A115,21,5,"['why', 'get', 'my', '1099', 'form']",5
+Q1050,can you tell me upgrade a subscriber mid month asap,A120,51,10,"['can', 'you', 'tell', 'me', 'upgrade', 'a', 'subscriber', 'mid', 'month', 'asap']",10
+Q1051,how do i where are my tax documents?,A115,36,8,"['how', 'do', 'i', 'where', 'are', 'my', 'tax', 'documents']",8
+Q1052,stop fake orders with stolen cards,A107,34,6,"['stop', 'fake', 'orders', 'with', 'stolen', 'cards']",6
+Q1053,question: store csutomer card on file asap,A110,42,7,"['question', 'store', 'csutomer', 'card', 'on', 'file', 'asap']",7
+Q1054,how do i try payments without real money?,A123,41,8,"['how', 'do', 'i', 'try', 'payments', 'without', 'real', 'money']",8
+Q1055,how do i updtae my bank details?,A103,32,7,"['how', 'do', 'i', 'updtae', 'my', 'bank', 'details']",7
+Q1056,can you tell me cancel everything and leave,A119,43,8,"['can', 'you', 'tell', 'me', 'cancel', 'everything', 'and', 'leave']",8
+Q1057,too many card testing attempts?,A107,31,5,"['too', 'many', 'card', 'testing', 'attempts']",5
+Q1058,can you tell me lost my authenticator phone,A118,43,8,"['can', 'you', 'tell', 'me', 'lost', 'my', 'authenticator', 'phone']",8
+Q1059,not enough balance to refund please,A113,35,6,"['not', 'enough', 'balance', 'to', 'refund', 'please']",6
+Q1060,how do i give my employee access asap,A117,37,8,"['how', 'do', 'i', 'give', 'my', 'employee', 'access', 'asap']",8
+Q1061,not enough balance to refund for my shop,A113,40,8,"['not', 'enough', 'balance', 'to', 'refund', 'for', 'my', 'shop']",8
+Q1062,how do i annual statement for accountant on my account,A115,54,10,"['how', 'do', 'i', 'annual', 'statement', 'for', 'accountant', 'on', 'my', 'account']",10
+Q1063,why account needs more information?,A116,35,5,"['why', 'account', 'needs', 'more', 'information']",5
+Q1064,need help: get my 1099 form,A115,27,6,"['need', 'help', 'get', 'my', '1099', 'form']",6
+Q1065,can you tell me turn off prorated charges on my account,A120,55,11,"['can', 'you', 'tell', 'me', 'turn', 'off', 'prorated', 'charges', 'on', 'my', 'account']",11
+Q1066,help where are my tax documents please,A115,38,7,"['help', 'where', 'are', 'my', 'tax', 'documents', 'please']",7
+Q1067,question: set up two factor login please,A118,40,7,"['question', 'set', 'up', 'two', 'factor', 'login', 'please']",7
+Q1068,can you tell me pricing for card processing?,A114,44,8,"['can', 'you', 'tell', 'me', 'pricing', 'for', 'card', 'processing']",8
+Q1069,help customer never got tehir money back,A113,40,7,"['help', 'customer', 'never', 'got', 'tehir', 'money', 'back']",7
+Q1070,daily limit on fast payouts asap,A104,32,6,"['daily', 'limit', 'on', 'fast', 'payouts', 'asap']",6
+Q1071,customer filed a chargeback,A105,27,4,"['customer', 'filed', 'a', 'chargeback']",4
+Q1072,how do i switch where deposits go?,A103,34,7,"['how', 'do', 'i', 'switch', 'where', 'deposits', 'go']",7
+Q1073,why payout stuck in pending for my shop,A102,39,8,"['why', 'payout', 'stuck', 'in', 'pending', 'for', 'my', 'shop']",8
+Q1074,help pricing for card processing pelase,A114,39,6,"['help', 'pricing', 'for', 'card', 'processing', 'pelase']",6
+Q1075,how do i keep payment details for next time please,A110,50,10,"['how', 'do', 'i', 'keep', 'payment', 'details', 'for', 'next', 'time', 'please']",10
+Q1076,question: how much do you take per transaction,A114,46,8,"['question', 'how', 'much', 'do', 'you', 'take', 'per', 'transaction']",8
+Q1077,"hi, cost of losing a dispute for my shop",A106,40,9,"['hi', 'cost', 'of', 'losing', 'a', 'dispute', 'for', 'my', 'shop']",9
+Q1078,customer charged when trial ended please,A121,40,6,"['customer', 'charged', 'when', 'trial', 'ended', 'please']",6
+Q1079,"hi, get my 1099 form",A115,20,5,"['hi', 'get', 'my', '1099', 'form']",5
+Q1080,need help: do i get the dispute fee back,A106,40,9,"['need', 'help', 'do', 'i', 'get', 'the', 'dispute', 'fee', 'back']",9
+Q1081,breakdown of charges on a sale?,A114,31,6,"['breakdown', 'of', 'charges', 'on', 'a', 'sale']",6
+Q1082,"hi, charged a fee for a chargeback asap",A106,39,8,"['hi', 'charged', 'a', 'fee', 'for', 'a', 'chargeback', 'asap']",8
+Q1083,how do i try payments without real money,A123,40,8,"['how', 'do', 'i', 'try', 'payments', 'without', 'real', 'money']",8
+Q1084,why why is my deposit held up,A102,29,7,"['why', 'why', 'is', 'my', 'deposit', 'held', 'up']",7
+Q1085,pamyent failed at checkout for my shop,A108,38,7,"['pamyent', 'failed', 'at', 'checkout', 'for', 'my', 'shop']",7
+Q1086,can you tell me stop fake orders with stolen cards asap,A107,55,11,"['can', 'you', 'tell', 'me', 'stop', 'fake', 'orders', 'with', 'stolen', 'cards', 'asap']",11
+Q1087,how do i limit what staff can see,A117,33,8,"['how', 'do', 'i', 'limit', 'what', 'staff', 'can', 'see']",8
+Q1088,help fake card numbers for testing please,A123,41,7,"['help', 'fake', 'card', 'numbers', 'for', 'testing', 'please']",7
+Q1089,need help: authorization expired before i charged please,A111,56,8,"['need', 'help', 'authorization', 'expired', 'before', 'i', 'charged', 'please']",8
+Q1090,do i get the dispute fee back on my account,A106,43,10,"['do', 'i', 'get', 'the', 'dispute', 'fee', 'back', 'on', 'my', 'account']",10
+Q1091,delete my account permanently please,A119,36,5,"['delete', 'my', 'account', 'permanently', 'please']",5
+Q1092,help account needs more information,A116,35,5,"['help', 'account', 'needs', 'more', 'information']",5
+Q1093,can you tell me cost of losing a dispute,A106,40,9,"['can', 'you', 'tell', 'me', 'cost', 'of', 'losing', 'a', 'dispute']",9
+Q1094,capture part of the amount,A111,26,5,"['capture', 'part', 'of', 'the', 'amount']",5
+Q1095,help turn off prorated charges,A120,30,5,"['help', 'turn', 'off', 'prorated', 'charges']",5
+Q1096,question: customer filed a chargeback for my shop,A105,49,8,"['question', 'customer', 'filed', 'a', 'chargeback', 'for', 'my', 'shop']",8
+Q1097,"hi, capture part of the amount for my shop",A111,42,9,"['hi', 'capture', 'part', 'of', 'the', 'amount', 'for', 'my', 'shop']",9
+Q1098,help update my bank details,A103,27,5,"['help', 'update', 'my', 'bank', 'details']",5
+Q1099,how do i move customer to a cheaper plan asap,A120,45,10,"['how', 'do', 'i', 'move', 'customer', 'to', 'a', 'cheaper', 'plan', 'asap']",10
+Q1100,move customer to a cheaper plan asap,A120,36,7,"['move', 'customer', 'to', 'a', 'cheaper', 'plan', 'asap']",7
+Q1101,"hi, give my employee access asap",A117,32,6,"['hi', 'give', 'my', 'employee', 'access', 'asap']",6
+Q1102,why verify who owns the business,A116,32,6,"['why', 'verify', 'who', 'owns', 'the', 'business']",6
+Q1103,need help: charge the same card again laetr,A110,43,8,"['need', 'help', 'charge', 'the', 'same', 'card', 'again', 'laetr']",8
+Q1104,"hi, lost my authenticator phone on my account",A118,45,8,"['hi', 'lost', 'my', 'authenticator', 'phone', 'on', 'my', 'account']",8
+Q1105,question: upload id to keep my account active?,A116,46,8,"['question', 'upload', 'id', 'to', 'keep', 'my', 'account', 'active']",8
+Q1106,why daily limit on fast payouts for my shop,A104,43,9,"['why', 'daily', 'limit', 'on', 'fast', 'payouts', 'for', 'my', 'shop']",9
+Q1107,need help: use a different checking account,A103,43,7,"['need', 'help', 'use', 'a', 'different', 'checking', 'account']",7
+Q1108,partial refund for one item for my shop,A112,39,8,"['partial', 'refund', 'for', 'one', 'item', 'for', 'my', 'shop']",8
+Q1109,need help: charge the same card again later please,A110,50,9,"['need', 'help', 'charge', 'the', 'same', 'card', 'again', 'later', 'please']",9
+Q1110,"hi, capture part of the amount",A111,30,6,"['hi', 'capture', 'part', 'of', 'the', 'amount']",6
+Q1111,need help: transfer to my bank is late,A102,38,8,"['need', 'help', 'transfer', 'to', 'my', 'bank', 'is', 'late']",8
+Q1112,get money faster same day on my account,A104,39,8,"['get', 'money', 'faster', 'same', 'day', 'on', 'my', 'account']",8
+Q1113,help fake card numbers for testing?,A123,35,6,"['help', 'fake', 'card', 'numbers', 'for', 'testing']",6
+Q1114,how do i invite a coworker to the dashboard for my shop,A117,55,12,"['how', 'do', 'i', 'invite', 'a', 'coworker', 'to', 'the', 'dashboard', 'for', 'my', 'shop']",12
+Q1115,why what happens when recurring payment fails,A122,45,7,"['why', 'what', 'happens', 'when', 'recurring', 'payment', 'fails']",7
+Q1116,help delete my account permanently on my account,A119,48,8,"['help', 'delete', 'my', 'account', 'permanently', 'on', 'my', 'account']",8
+Q1117,question: webhook endpoint not receiving events,A124,47,6,"['question', 'webhook', 'endpoint', 'not', 'receiving', 'events']",6
+Q1118,fake card numbers for testing?,A123,30,5,"['fake', 'card', 'numbers', 'for', 'testing']",5
+Q1119,"hi, refund did not go through on my account",A113,43,9,"['hi', 'refund', 'did', 'not', 'go', 'through', 'on', 'my', 'account']",9
+Q1120,bank refused the charge asap,A108,28,5,"['bank', 'refused', 'the', 'charge', 'asap']",5
+Q1121,can you tell me transfer to my bank is late for my shop,A102,55,13,"['can', 'you', 'tell', 'me', 'transfer', 'to', 'my', 'bank', 'is', 'late', 'for', 'my', 'shop']",13
+Q1122,"hi, switch from test to live asap",A123,33,7,"['hi', 'switch', 'from', 'test', 'to', 'live', 'asap']",7
+Q1123,bank refused the charge on my account,A108,37,7,"['bank', 'refused', 'the', 'charge', 'on', 'my', 'account']",7
+Q1124,"hi, annual statement for accountant please",A115,42,6,"['hi', 'annual', 'statement', 'for', 'accountant', 'please']",6
+Q1125,need help: put a hold on a card asap,A111,36,9,"['need', 'help', 'put', 'a', 'hold', 'on', 'a', 'card', 'asap']",9
+Q1126,how do i cancel everything and laeve for my shop,A119,48,10,"['how', 'do', 'i', 'cancel', 'everything', 'and', 'laeve', 'for', 'my', 'shop']",10
+Q1127,why require 2fa for my team asap,A118,32,7,"['why', 'require', '2fa', 'for', 'my', 'team', 'asap']",7
+Q1128,question: where are my tax documents please,A115,43,7,"['question', 'where', 'are', 'my', 'tax', 'documents', 'please']",7
+Q1129,remind users before trial expires for my shop,A121,45,8,"['remind', 'users', 'before', 'trial', 'expires', 'for', 'my', 'shop']",8
+Q1130,need help: limit what staff can see for my shop,A117,47,10,"['need', 'help', 'limit', 'what', 'staff', 'can', 'see', 'for', 'my', 'shop']",10
+Q1131,send funds to my debit card for my shop,A104,39,9,"['send', 'funds', 'to', 'my', 'debit', 'card', 'for', 'my', 'shop']",9
+Q1132,customer filed a chargeback,A105,27,4,"['customer', 'filed', 'a', 'chargeback']",4
+Q1133,can you tell me charge the same card again later,A110,48,10,"['can', 'you', 'tell', 'me', 'charge', 'the', 'same', 'card', 'again', 'later']",10
+Q1134,why verify event signature,A124,26,4,"['why', 'verify', 'event', 'signature']",4
+Q1135,refund did not go through,A113,25,5,"['refund', 'did', 'not', 'go', 'through']",5
+Q1136,question: block suspicious payments on my account,A107,49,7,"['question', 'block', 'suspicious', 'payments', 'on', 'my', 'account']",7
+Q1137,help stop fake orders with stolen cards?,A107,40,7,"['help', 'stop', 'fake', 'orders', 'with', 'stolen', 'cards']",7
+Q1138,"hi, give my employee access for my shop",A117,39,8,"['hi', 'give', 'my', 'employee', 'access', 'for', 'my', 'shop']",8
+Q1139,how do i sell to buyers abroad in their money asap,A109,50,11,"['how', 'do', 'i', 'sell', 'to', 'buyers', 'abroad', 'in', 'their', 'money', 'asap']",11
+Q1140,need help: lost my authenticator phone,A118,38,6,"['need', 'help', 'lost', 'my', 'authenticator', 'phone']",6
+Q1141,question: verify event signature on my account,A124,46,7,"['question', 'verify', 'event', 'signature', 'on', 'my', 'account']",7
+Q1142,use a different checking account asap,A103,37,6,"['use', 'a', 'different', 'checking', 'account', 'asap']",6
+Q1143,need help: too many card testing attemtps please,A107,48,8,"['need', 'help', 'too', 'many', 'card', 'testing', 'attemtps', 'please']",8
+Q1144,"hi, breakdown of charges on a sale",A114,34,7,"['hi', 'breakdown', 'of', 'charges', 'on', 'a', 'sale']",7
+Q1145,need help: verify who owns the business,A116,39,7,"['need', 'help', 'verify', 'who', 'owns', 'the', 'business']",7
+Q1146,question: switch where deposits go?,A103,35,5,"['question', 'switch', 'where', 'deposits', 'go']",5
+Q1147,get money faster same day asap,A104,30,6,"['get', 'money', 'faster', 'same', 'day', 'asap']",6
+Q1148,question: lmiit what staff can see,A117,34,6,"['question', 'lmiit', 'what', 'staff', 'can', 'see']",6
+Q1149,charge customers in euros?,A109,26,4,"['charge', 'customers', 'in', 'euros']",4
+Q1150,"hi, refund did not go through",A113,29,6,"['hi', 'refund', 'did', 'not', 'go', 'through']",6
+Q1151,authorization expired before i charged on my account,A111,52,8,"['authorization', 'expired', 'before', 'i', 'charged', 'on', 'my', 'account']",8
+Q1152,help customer charegd when trial ended,A121,38,6,"['help', 'customer', 'charegd', 'when', 'trial', 'ended']",6
+Q1153,"hi, get notified when payment succeeds for my shop",A124,50,9,"['hi', 'get', 'notified', 'when', 'payment', 'succeeds', 'for', 'my', 'shop']",9
+Q1154,how do i what does decline code mean,A108,36,8,"['how', 'do', 'i', 'what', 'does', 'decline', 'code', 'mean']",8
+Q1155,help why is my deopsit held up,A102,30,7,"['help', 'why', 'is', 'my', 'deopsit', 'held', 'up']",7
+Q1156,payment failed at checkout asap,A108,31,5,"['payment', 'failed', 'at', 'checkout', 'asap']",5
+Q1157,"hi, require 2fa for my team",A118,27,6,"['hi', 'require', '2fa', 'for', 'my', 'team']",6
+Q1158,can you tell me why is my deposit held up for my shop,A102,53,13,"['can', 'you', 'tell', 'me', 'why', 'is', 'my', 'deposit', 'held', 'up', 'for', 'my', 'shop']",13
+Q1159,need help: dunning settigns for subscriptions for my shop,A122,57,9,"['need', 'help', 'dunning', 'settigns', 'for', 'subscriptions', 'for', 'my', 'shop']",9
+Q1160,question: remind users before trial expires,A121,43,6,"['question', 'remind', 'users', 'before', 'trial', 'expires']",6
+Q1161,why customer never got their money back on my account,A113,53,10,"['why', 'customer', 'never', 'got', 'their', 'money', 'back', 'on', 'my', 'account']",10
+Q1162,need help: do i get the dispute fee back please,A106,47,10,"['need', 'help', 'do', 'i', 'get', 'the', 'dispute', 'fee', 'back', 'please']",10
+Q1163,get money faster same day,A104,25,5,"['get', 'money', 'faster', 'same', 'day']",5
+Q1164,need help: webhook endpoint not receiving events,A124,48,7,"['need', 'help', 'webhook', 'endpoint', 'not', 'receiving', 'events']",7
+Q1165,"hi, give money back to a buyer",A112,30,7,"['hi', 'give', 'money', 'back', 'to', 'a', 'buyer']",7
+Q1166,need help: what does decline code mean?,A108,39,7,"['need', 'help', 'what', 'does', 'decline', 'code', 'mean']",7
+Q1167,why upgrade a subscriber mid mnoth,A120,34,6,"['why', 'upgrade', 'a', 'subscriber', 'mid', 'mnoth']",6
+Q1168,"hi, customer never got their money back?",A113,40,7,"['hi', 'customer', 'never', 'got', 'their', 'money', 'back']",7
+Q1169,need help: move customer to a cheaper plan for my shop,A120,54,11,"['need', 'help', 'move', 'customer', 'to', 'a', 'cheaper', 'plan', 'for', 'my', 'shop']",11
+Q1170,how do i when does my money arrive,A101,34,8,"['how', 'do', 'i', 'when', 'does', 'my', 'money', 'arrive']",8
+Q1171,help keep payment details for next time,A110,39,7,"['help', 'keep', 'payment', 'details', 'for', 'next', 'time']",7
+Q1172,question: use a different checking account,A103,42,6,"['question', 'use', 'a', 'different', 'checking', 'account']",6
+Q1173,why customer charged when trial ended?,A121,38,6,"['why', 'customer', 'charged', 'when', 'trial', 'ended']",6
+Q1174,can you tell me delete my account permanently,A119,45,8,"['can', 'you', 'tell', 'me', 'delete', 'my', 'account', 'permanently']",8
+Q1175,can you tell me remind users before trial expires on my account,A121,63,12,"['can', 'you', 'tell', 'me', 'remind', 'users', 'before', 'trial', 'expires', 'on', 'my', 'account']",12
+Q1176,get notified when payment succeeds asap,A124,39,6,"['get', 'notified', 'when', 'payment', 'succeeds', 'asap']",6
+Q1177,when does my money arrvie please,A101,32,6,"['when', 'does', 'my', 'money', 'arrvie', 'please']",6
+Q1178,help what happens when recurring payment fails on my account,A122,60,10,"['help', 'what', 'happens', 'when', 'recurring', 'payment', 'fails', 'on', 'my', 'account']",10
+Q1179,help upload id to keep my account active for my shop,A116,52,11,"['help', 'upload', 'id', 'to', 'keep', 'my', 'account', 'active', 'for', 'my', 'shop']",11
+Q1180,help payout schedule timing,A101,27,4,"['help', 'payout', 'schedule', 'timing']",4
+Q1181,help renweal charge failed for a subscriber for my shop,A122,55,10,"['help', 'renweal', 'charge', 'failed', 'for', 'a', 'subscriber', 'for', 'my', 'shop']",10
+Q1182,why webhook endpoint not receiving events on my accuont,A124,55,9,"['why', 'webhook', 'endpoint', 'not', 'receiving', 'events', 'on', 'my', 'accuont']",9
+Q1183,first payout is taking too long for my shop,A101,43,9,"['first', 'payout', 'is', 'taking', 'too', 'long', 'for', 'my', 'shop']",9
+Q1184,can you tell me cancel everything and leave,A119,43,8,"['can', 'you', 'tell', 'me', 'cancel', 'everything', 'and', 'leave']",8
+Q1185,can you tell me charged a fee for a chargeback asap,A106,51,11,"['can', 'you', 'tell', 'me', 'charged', 'a', 'fee', 'for', 'a', 'chargeback', 'asap']",11
+Q1186,question: verify who owns the business asap,A116,43,7,"['question', 'verify', 'who', 'owns', 'the', 'business', 'asap']",7
+Q1187,set trial length to 14 days,A121,27,6,"['set', 'trial', 'length', 'to', '14', 'days']",6
+Q1188,need hlep: switch from test to live?,A123,36,7,"['need', 'hlep', 'switch', 'from', 'test', 'to', 'live']",7
+Q1189,keep paymnet details for next time?,A110,35,6,"['keep', 'paymnet', 'details', 'for', 'next', 'time']",6
+Q1190,how do i return a charge to the cusotmer,A112,40,9,"['how', 'do', 'i', 'return', 'a', 'charge', 'to', 'the', 'cusotmer']",9
+Q1191,"hi, give money back to a buyer plesae",A112,37,8,"['hi', 'give', 'money', 'back', 'to', 'a', 'buyer', 'plesae']",8
+Q1192,close business account?,A119,23,3,"['close', 'business', 'account']",3
+Q1193,help first payout is taking too long,A101,36,7,"['help', 'first', 'payout', 'is', 'taking', 'too', 'long']",7
+Q1194,how do i block suspicious payments,A107,34,6,"['how', 'do', 'i', 'block', 'suspicious', 'payments']",6
+Q1195,why not enough balance to refund for my shop,A113,44,9,"['why', 'not', 'enough', 'balance', 'to', 'refund', 'for', 'my', 'shop']",9
+Q1196,how do i sell to buyers abroad in their money,A109,45,10,"['how', 'do', 'i', 'sell', 'to', 'buyers', 'abroad', 'in', 'their', 'money']",10
+Q1197,question: first payout is taking too long on my account,A101,55,10,"['question', 'first', 'payout', 'is', 'taking', 'too', 'long', 'on', 'my', 'account']",10
+Q1198,give money back to a buyer please,A112,33,7,"['give', 'money', 'back', 'to', 'a', 'buyer', 'please']",7
+Q1199,"hi, pricing for card processing for my shop",A114,43,8,"['hi', 'pricing', 'for', 'card', 'processing', 'for', 'my', 'shop']",8
+Q1200,how do i payout schedule timing?,A101,32,6,"['how', 'do', 'i', 'payout', 'schedule', 'timing']",6
+Q1201,"hi, put a hold on a card on my account",A111,38,10,"['hi', 'put', 'a', 'hold', 'on', 'a', 'card', 'on', 'my', 'account']",10
+Q1202,help exchange rate on foreign sales,A109,35,6,"['help', 'exchange', 'rate', 'on', 'foreign', 'sales']",6
+Q1203,transfer to my bank is late,A102,27,6,"['transfer', 'to', 'my', 'bank', 'is', 'late']",6
+Q1204,can you tell me update my bank detials asap,A103,43,9,"['can', 'you', 'tell', 'me', 'update', 'my', 'bank', 'detials', 'asap']",9
+Q1205,need help: exchange rate on foreign sales,A109,41,7,"['need', 'help', 'exchange', 'rate', 'on', 'foreign', 'sales']",7
+Q1206,question: how do i fight a chargeback for my shop,A105,49,10,"['question', 'how', 'do', 'i', 'fight', 'a', 'chargeback', 'for', 'my', 'shop']",10
+Q1207,how do i what happens when recurring payment fails,A122,50,9,"['how', 'do', 'i', 'what', 'happens', 'when', 'recurring', 'payment', 'fails']",9
+Q1208,exchange rate on foreign sales,A109,30,5,"['exchange', 'rate', 'on', 'foreign', 'sales']",5
+Q1209,why renewal charge failed for a subscirber,A122,42,7,"['why', 'renewal', 'charge', 'failed', 'for', 'a', 'subscirber']",7
+Q1210,payout stuck in pending?,A102,24,4,"['payout', 'stuck', 'in', 'pending']",4
+Q1211,daily limit on fast payouts,A104,27,5,"['daily', 'limit', 'on', 'fast', 'payouts']",5
+Q1212,need help: store customer card on file asap,A110,43,8,"['need', 'help', 'store', 'customer', 'card', 'on', 'file', 'asap']",8
+Q1213,"hi, send funds to my debit card asap",A104,36,8,"['hi', 'send', 'funds', 'to', 'my', 'debit', 'card', 'asap']",8
+Q1214,"hi, pratial refund for one item asap",A112,36,7,"['hi', 'pratial', 'refund', 'for', 'one', 'item', 'asap']",7
+Q1215,"hi, get notified when paymnet succeeds asap",A124,43,7,"['hi', 'get', 'notified', 'when', 'paymnet', 'succeeds', 'asap']",7
+Q1216,why turn off prorated charges,A120,29,5,"['why', 'turn', 'off', 'prorated', 'charges']",5

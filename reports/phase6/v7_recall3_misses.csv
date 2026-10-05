@@ -1,0 +1,24 @@
+fold,query_id,query,true_article_id,rank_1,rank_2,rank_3,true_rank,category,true_article_title
+0,Q1052,stop fake orders with stolen cards,A107,A110,A114,A104,>N,Disputes,Preventing fraudulent charges
+0,Q1086,can you tell me stop fake orders with stolen cards asap,A107,A110,A114,A104,>N,Disputes,Preventing fraudulent charges
+0,Q1107,need help: use a different checking account,A103,A108,A120,A116,>N,Payouts,Change the bank account for payouts
+0,Q1137,help stop fake orders with stolen cards?,A107,A110,A114,A111,>N,Disputes,Preventing fraudulent charges
+0,Q1142,use a different checking account asap,A103,A108,A120,A119,>N,Payouts,Change the bank account for payouts
+0,Q1172,question: use a different checking account,A103,A108,A101,A120,>N,Payouts,Change the bank account for payouts
+1,Q1047,how do i switch where deposits go,A103,A123,A102,A115,>N,Payouts,Change the bank account for payouts
+1,Q1072,how do i switch where deposits go?,A103,A123,A102,A115,>N,Payouts,Change the bank account for payouts
+1,Q1146,question: switch where deposits go?,A103,A123,A102,A115,>N,Payouts,Change the bank account for payouts
+2,Q1099,how do i move customer to a cheaper plan asap,A120,A112,A105,A113,>N,Subscriptions,Changing a customer's subscription plan
+2,Q1100,move customer to a cheaper plan asap,A120,A112,A105,A113,>N,Subscriptions,Changing a customer's subscription plan
+2,Q1101,"hi, give my employee access asap",A117,A112,A116,A114,>N,Account,Adding team members and roles
+2,Q1138,"hi, give my employee access for my shop",A117,A112,A116,A114,>N,Account,Adding team members and roles
+2,Q1169,need help: move customer to a cheaper plan for my shop,A120,A112,A105,A110,>N,Subscriptions,Changing a customer's subscription plan
+3,Q1016,bank refused the charge for my shop,A108,A112,A102,A113,>N,Payments,Why was a payment declined?
+3,Q1120,bank refused the charge asap,A108,A112,A113,A103,>N,Payments,Why was a payment declined?
+3,Q1123,bank refused the charge on my account,A108,A112,A103,A113,>N,Payments,Why was a payment declined?
+4,Q1013,can you tell me charge customers in eruos please,A109,A110,A105,A112,>N,Payments,Accepting payments in another currency
+4,Q1033,how do i sell to buyers abroad in their money please,A109,A112,A113,A123,>N,Payments,Accepting payments in another currency
+4,Q1112,get money faster same day on my account,A104,A110,A101,A113,>N,Payouts,Instant payouts to a debit card
+4,Q1139,how do i sell to buyers abroad in their money asap,A109,A112,A113,A123,>N,Payments,Accepting payments in another currency
+4,Q1163,get money faster same day,A104,A110,A112,A113,>N,Payouts,Instant payouts to a debit card
+4,Q1196,how do i sell to buyers abroad in their money,A109,A112,A113,A123,>N,Payments,Accepting payments in another currency

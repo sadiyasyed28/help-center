@@ -1,0 +1,9 @@
+category,query_count,miss_count,recall_at_3
+Account,36,2,0.9444444444444444
+Billing,18,0,1.0
+Developers,18,0,1.0
+Disputes,27,3,0.8888888888888888
+Payments,36,7,0.8055555555555556
+Payouts,36,8,0.7777777777777778
+Refunds,18,0,1.0
+Subscriptions,27,3,0.8888888888888888
